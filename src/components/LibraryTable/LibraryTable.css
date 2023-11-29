@@ -1,0 +1,70 @@
+table img{
+    width: 30px;
+    height: 30px;
+}
+
+.lib-tools {
+    font-size: 25px;
+}
+
+.lib-tools a:hover, .lib-tools a:focus, .lib-tools a:active{
+    text-decoration: none;
+    color: #DA5E42;
+    border-radius: 5px;
+    margin-right: 5px;
+}
+
+.table-container {
+  overflow-x: auto;
+  max-height: 400px;
+}
+
+/* Set overflow-y only for the tbody element */
+.table-container tbody {
+  overflow-y: auto;
+}
+
+.table-header{
+  font-size: 16px;
+  font-weight: bold;
+  margin-top: 5px;
+  text-align: center;
+}
+
+.header-line{
+  height: 1px;
+  width: 100%;
+  background-color: black;
+  margin-top: 15px;
+  margin-bottom: 13px;
+
+}
+
+.th1{
+  width: 80.22px;
+}
+
+
+.th2{
+  width: 143.67px;
+}
+
+.th3{
+  width: 143.67px;
+}
+
+.th7{
+  width: 93.67px;
+}
+
+.th4{
+  width: 129.43px;
+}
+
+.th5{
+  width: 108.61px;
+}
+
+.th6{
+  width: 108.82px;
+}
